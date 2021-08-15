@@ -1,0 +1,12 @@
+.AddTask{
+    padding:4vh 4vw;
+    display:flex;
+    justify-content: center;
+
+}
+input{
+    margin:0 2vw 0 0;
+}
+.btnAddTask{
+    margin:0 0 0 1vw;
+}

@@ -1,0 +1,22 @@
+.aTask{
+    margin: 3vh 3vw;
+    margin-left: 40vw;
+}
+p{
+    display: inline;
+    margin-left: 1vw;
+}
+
+.btnDelTask{
+    padding:0%;
+    display: inline-block;
+    margin-left:2vw;
+}
+.checkInp{
+    display: inline-block;
+    margin-right: 0vw;
+}
+img{
+    height: 16px;
+    width: 100%;
+}
